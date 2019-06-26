@@ -1,2 +1,2 @@
 
-screenshots coming soon! On my new comp. terminal is not set up.
+screenshots in a sep file....trying to figure out how to add the screenshot INTO the readme.
