@@ -96,11 +96,3 @@ else if (process.argv[2] === `do-what-it-says`) {
     //     * The song's name
 
     //         * A preview link of the song from Spotify
-
-    //             * The album that the song is from
-
-
-    // * If no song is provided then your program will default to "The Sign" by Ace of Base.
-
-
-    //    * If the user doesn't type a movie in, the program will output data for the movie 'Mr.Nobody.'
